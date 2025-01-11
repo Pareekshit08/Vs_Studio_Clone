@@ -2,6 +2,7 @@
 # Replicating Visual Studio Code 
 
 A lightweight code editor inspired by VS Code, built for learning and experimentation purposes. This project demonstrates the fundamental features of a code editor using modern web technologies.
+[Visit Site](https://pareekshit08.github.io/Vs_Studio_Clone/)
 
 ![image](https://github.com/user-attachments/assets/4d6003a7-b713-4f58-9cf8-8fbd80ec0b3f)
 ![image](https://github.com/user-attachments/assets/dba893f7-186f-4dac-8e5f-4f65391cce55)
