@@ -6,6 +6,7 @@ A lightweight code editor inspired by VS Code, built for learning and experiment
 ![image](https://github.com/user-attachments/assets/4d6003a7-b713-4f58-9cf8-8fbd80ec0b3f)
 ![image](https://github.com/user-attachments/assets/dba893f7-186f-4dac-8e5f-4f65391cce55)
 ![image](https://github.com/user-attachments/assets/8a2726ec-6b71-47c8-94f4-01e481f04c4e)
+![image](https://github.com/user-attachments/assets/df17650d-506c-4ad6-9be9-1c07a8f39b97)
 
 
 
